@@ -1,0 +1,14 @@
+D:\CodeCamp_C#\AreaOfCircle\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.exe
+D:\CodeCamp_C#\AreaOfCircle\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.deps.json
+D:\CodeCamp_C#\AreaOfCircle\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.runtimeconfig.json
+D:\CodeCamp_C#\AreaOfCircle\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.runtimeconfig.dev.json
+D:\CodeCamp_C#\AreaOfCircle\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.dll
+D:\CodeCamp_C#\AreaOfCircle\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.pdb
+D:\CodeCamp_C#\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.csproj.AssemblyReference.cache
+D:\CodeCamp_C#\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeCamp_C#\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.AssemblyInfoInputs.cache
+D:\CodeCamp_C#\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.AssemblyInfo.cs
+D:\CodeCamp_C#\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.csproj.CoreCompileInputs.cache
+D:\CodeCamp_C#\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.dll
+D:\CodeCamp_C#\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.pdb
+D:\CodeCamp_C#\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.genruntimeconfig.cache
